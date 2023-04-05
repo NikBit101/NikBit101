@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Improved Grade Calculator & Predictor](https://github.com/NikBit101/dcalc_ext)
 
-- 🌱 I’m currently learning **JavaScript, Svelte, Next.js**
+- 🌱 I’m currently learning **JavaScript, PostqreSQL, Next.js**
 
 <p align="left">
 </p>
