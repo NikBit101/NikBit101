@@ -1,8 +1,8 @@
 <h3 align="center">Interested in Software Engineering, Full-stack and Back-end development.</h3>
 
-- 🔭 I have worked on [Portsmouth Degree Calculator](https://github.com/NikBit101/dcalc_ext)
+- 🔭 I worked with a team to help my lecturers with improving and innovating the [Portsmouth Degree Calculator](https://github.com/NikBit101/dcalc_ext)
 
-- 🌱 I’m enthusiastic about learning & improving skills on **JavaScript, PostqreSQL, Python, PHP**
+- 🌱 I’m enthusiastic about learning & improving skills on **JavaScript, SQL, Python, C#**
 
 <p align="left">
 </p>
